@@ -1,0 +1,11 @@
+{
+  "name": "biosync",
+  "version": "1.0.0",
+  "description": "Syncronization from PDK to BioConnect API",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Joshua Perry <josh@pdk.io>",
+  "license": "UNLICENSED"
+}
